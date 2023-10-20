@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <div align="center"><span><strong>Welcome, You are my</strong></span> <a href="https://david-deng-01.gitee.io/my-blog/"><img src="https://profile-counter.glitch.me/david-deng-01/count.svg"/></a> <span><strong>visitor, Thank You!</strong>🎉🎉</span></div>
 
+<br/>
+
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/trophy.svg"/></div>
 
 <div align="center"><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/Top%20Langs.svg"/></span><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/status.svg"/></span></div>
