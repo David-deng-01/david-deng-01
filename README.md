@@ -94,9 +94,11 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; justify-content: flex-start;"><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/api.svg"/></span><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/download.svg"/></span></div>
 
 
+![Metrics](https://metrics.lecoq.io/david-deng-01?template=classic&introduction=1&projects=1&calendar=1&fortune=1&leetcode=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&calendar=false&calendar.limit=1&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&leetcode=false&leetcode.user=https%3A%2F%2Fleetcode.cn%2Fu%2Fdavid-deng-01%2F&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FShanghai&config.display=large)
+
 
 ---
-
+页面布局参考：[给GitHub装扮个性化首页 - CSDN博客](https://blog.csdn.net/weixin_40808668/article/details/128526046)
 
 
 <div align="center">
@@ -113,5 +115,3 @@ Here are some ideas to get you started:
     />
   </a>
 </div>
-
-![Metrics](https://metrics.lecoq.io/david-deng-01?template=classic&introduction=1&projects=1&calendar=1&fortune=1&leetcode=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&calendar=false&calendar.limit=1&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&leetcode=false&leetcode.user=https%3A%2F%2Fleetcode.cn%2Fu%2Fdavid-deng-01%2F&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FShanghai&config.display=large)
