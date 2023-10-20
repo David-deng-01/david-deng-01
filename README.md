@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 
-Welcome, You are my[![Count (profile-counter.glitch.me)](https://profile-counter.glitch.me/david-deng-01/count.svg)](https://david-deng-01.gitee.io/my-blog/) visitor, Thank You!🎉🎉
+<p style="text-align: center"><strong>Welcome, You are my </strong><a href="https://david-deng-01.gitee.io/my-blog/"><img src="https://profile-counter.glitch.me/david-deng-01/count.svg"/></a> <strong>visitor, Thank You!</strong>🎉🎉</p>
 
-<span>![Top Langs](https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/Top%20Langs.svg)</span><span>![status](https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/status.svg)</span>
+<div align="center"><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/Top%20Langs.svg"/></span><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/status.svg"/></span></div>
 
 <div style="align: center;"><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/trophy.svg"/></div>
 
@@ -87,9 +87,9 @@ Welcome, You are my[![Count (profile-counter.glitch.me)](https://profile-counter
 
 
 
-<span>![api](https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/api.svg)</span><span>![download](https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/download.svg)</span>
+<div align="center" style="display: flex; justify-content: flex-start;"><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/api.svg"/></span><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/download.svg"/></span></div>
 
-<div align="center">
+<div align="center" style="display: flex;">
   <a href="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/Alipay.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/AliPay-Buy%20Me%20A%20Coffee-blue?style=flat-square"
@@ -103,3 +103,4 @@ Welcome, You are my[![Count (profile-counter.glitch.me)](https://profile-counter
     />
   </a>
 </div>
+
