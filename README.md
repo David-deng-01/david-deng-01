@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<p style="text-align: center"><strong>Welcome, You are my </strong><a href="https://david-deng-01.gitee.io/my-blog/"><img src="https://profile-counter.glitch.me/david-deng-01/count.svg"/></a> <strong>visitor, Thank You!</strong>🎉🎉</p>
+<div style="text-align: center"><strong>Welcome, You are my </strong><a href="https://david-deng-01.gitee.io/my-blog/"><img src="https://profile-counter.glitch.me/david-deng-01/count.svg"/></a> <strong>visitor, Thank You!</strong>🎉🎉</div>
 
 <div align="center"><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/Top%20Langs.svg"/></span><span><img src="https://cdn.jsdelivr.net/gh/David-deng-01/images/blog/status.svg"/></span></div>
 
